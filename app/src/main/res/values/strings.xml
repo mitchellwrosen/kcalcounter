@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">kcalcounter</string>
     <string name="action_settings">Settings</string>
+    <string name="hint"><i>I consumed...</i></string>
 </resources>
